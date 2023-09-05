@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yemi! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+i<h1>Hi, I'm Yemi! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -29,8 +29,6 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/yemi-alagbe
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
